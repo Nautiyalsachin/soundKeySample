@@ -1,0 +1,104 @@
+{
+    "data": {
+        "cards": [
+            {
+                "card_id": "card1234",
+                "card_type": 26,
+                "start_time": 1544510274,
+                "end_time": 1576780200,
+                "priority": 0.99,
+                "source": "manual-provider",
+                "hide_on_use": true,
+                "service_type": 1,
+                "hide_on_use_for_seconds": 300,
+                "card_template": "poll_card",
+                "s2id_relevancy": true,
+                "poi_lat_long": "-6.2145983,106.8451283",
+                "distance_threshold_in_meters": 2000,
+                "service_area_id": 1,
+                "content": {
+                    "title": "The Shawshank Redemption",
+                    "year": "1994",
+                    "rated": "R",
+                    "released": "14 Oct 1994",
+                    "runtime": "142 min",
+                    "genre": "Drama",
+                    "director": "Frank Darabont",
+                    "writer": "Stephen King (short story \"Rita Hayworth and Shawshank Redemption\"), Frank Darabont (screenplay)",
+                    "actors": "Tim Robbins, Morgan Freeman, Bob Gunton, William Sadler",
+                    "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+                    
+                }
+            },
+            {
+                "card_id": "card12345",
+                "card_type": 26,
+                "start_time": 1544510274,
+                "end_time": 1576780200,
+                "priority": 0.99,
+                "source": "manual-provider",
+                "hide_on_use": true,
+                "service_type": 1,
+                "hide_on_use_for_seconds": 300,
+                "card_template": "poll_card",
+                "s2id_relevancy": true,
+                "poi_lat_long": "-6.2145983,106.8451283",
+                "distance_threshold_in_meters": 2000,
+                "service_area_id": 1,
+                "content": {
+                    "title": "The Antman",
+                    "year": "2002",
+                    "rated": "N/A",
+                    "released": "30 Jan 2003",
+                    "runtime": "94 min",
+                    "genre": "Comedy, Horror, Sci-Fi",
+                    "director": "Christoph Gampl",
+                    "writer": "Marc Meyer, Jürgen Michel (idea)",
+                    "actors": "Götz Otto, Yasmina Filali, Lars Rudolph, Elisabeth Volkmann",
+                    "plot": "N/A",
+                    "language": "German",
+                    "country": "Germany",
+                    "awards": "N/A",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BN2I3NzVlMTktNWZmYi00ODk1LWE1YzUtYzVlMmY5ZjYwMTk1XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SX300.jpg"
+                }
+            },
+            {
+                "card_id": "card12345",
+                "card_type": 26,
+                "start_time": 1544510274,
+                "end_time": 1576780200,
+                "priority": 0.99,
+                "source": "manual-provider",
+                "hide_on_use": true,
+                "service_type": 1,
+                "hide_on_use_for_seconds": 300,
+                "card_template": "poll_card",
+                "s2id_relevancy": true,
+                "poi_lat_long": "-6.2145983,106.8451283",
+                "distance_threshold_in_meters": 2000,
+                "service_area_id": 1,
+                "content": {
+                    "title": "Hulk",
+                    "year": "2003",
+                    "rated": "PG-13",
+                    "released": "20 Jun 2003",
+                    "runtime": "138 min",
+                    "genre": "Action, Sci-Fi",
+                    "director": "Ang Lee",
+                    "writer": "Stan Lee (Marvel comic book character), Jack Kirby (Marvel comic book character), James Schamus (story), John Turman (screenplay), Michael France (screenplay), James Schamus (screenplay)",
+                    "actors": "Eric Bana, Jennifer Connelly, Sam Elliott, Josh Lucas",
+                    "plot": "Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.",
+                    "language": "English, Spanish",
+                    "country": "USA",
+                    "awards": "3 wins & 14 nominations.",
+                    "poster": "https://m.media-amazon.com/images/M/MV5BNjcxMzZhZTEtMmEwYi00NDJmLWE5ZmUtOWJiMzRmMzEzMTY3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg"
+                }
+            }
+        ]
+    },
+    "success": true,
+    "errors": [
+        
+    ]
+}
